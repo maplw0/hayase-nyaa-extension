@@ -1,12 +1,12 @@
 [
   {
-    "name": "NyaaSi",
-    "id": "nyaasi",
-    "version": "1.0.0",
+    "name": "Custom Nyaa",
+    "id": "maplw0-nyaa",
+    "version": "1.0.1",
     "type": "torrent",
     "accuracy": "low",
     "ratio": 0,
-    "media": "sub", 
+    "media": "sub",
     "languages": [
       "US"
     ],
