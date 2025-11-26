@@ -1,7 +1,7 @@
 [
   {
-    "name": "NyaaSi Custom",
-    "id": "nyaasi-custom-maplw0",
+    "name": "Nyaa CDN Fix",
+    "id": "nyaa-cdn-fix",
     "version": "1.0.0",
     "type": "torrent",
     "accuracy": "low",
@@ -11,7 +11,7 @@
       "US"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:maplw0/hayase-nyaa-extension",
-    "code": "gh:maplw0/hayase-nyaa-extension/nyaasi"
+    "update": "https://cdn.jsdelivr.net/gh/maplw0/hayase-nyaa-extension@master/index.json",
+    "code": "https://cdn.jsdelivr.net/gh/maplw0/hayase-nyaa-extension@master/nyaasi"
   }
 ]
