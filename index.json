@@ -12,7 +12,8 @@
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:maplw0/hayase-nyaa-extension",
-    "code": "https://cdn.jsdelivr.net/gh/maplw0/hayase-nyaa-extension@main/nyaasi"
+    "code": ""code": "gh:maplw0/hayase-nyaa-extension/nyaasi""
   }
 ]
+
 
