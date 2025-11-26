@@ -2,7 +2,7 @@
   {
     "name": "Custom Nyaa",
     "id": "maplw0-nyaa",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "torrent",
     "accuracy": "low",
     "ratio": 0,
@@ -12,6 +12,6 @@
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:maplw0/hayase-nyaa-extension",
-    "code": "gh:maplw0/hayase-nyaa-extension/nyaasi"
+    "code": "https://cdn.jsdelivr.net/gh/maplw0/hayase-nyaa-extension@main/nyaasi.js"
   }
 ]
